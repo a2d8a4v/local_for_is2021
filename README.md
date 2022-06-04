@@ -1,2 +1,2 @@
-# is2021_feature_extractor
-Generating acoustic phonetic features
+#  local_for_is2021
+the original local from is2021 project with modification from me
